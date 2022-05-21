@@ -1,11 +1,13 @@
-## Opaa! Tudo bom!?
 
+<div align="center">
+## Opaa! Tudo bom!?
+</div> 
 <div align="center">
   <a href="https://github.com/dmxdm">
   <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api?username=dmxdm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmxdm&layout=compact&langs_count=7&theme=dark"/> -->
 </div> 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="center" height="50" width="40" src="https://png2.cleanpng.com/sh/e044183a0de8e683658ce2cfe2661a90/L0KzQYm3VMA6N5pofZH0aYP2gLBuTgZje5R3geJ9LYPmgrr3lPlvb15xedDwdXHqdX79igN2aZ0yetN8aXOwfbrqkv90d5d5RdN3YXz8g8W0VfFka2I7StQENnazSYK1VsY1O2E7Sqg6NUK2Q4O7VMU6PmI9S5D5bne=/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b96f091.6643062615233244596183.png"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
